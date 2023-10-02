@@ -54,6 +54,7 @@ main .card1 .circle h1 {
 
 h2 {
   color: hsl(0, 0%, 100%);
+  margin-bottom: 0;
 }
 
 p {
