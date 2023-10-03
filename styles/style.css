@@ -89,7 +89,6 @@ span {
 .block1 {
   width: 260px;
   height: 30px;
-  padding-top: 10px;
   background-color: rgba(240, 128, 128, 0.03);
   border-radius: 10px;
   margin-top: 20px;
@@ -98,7 +97,6 @@ span {
 .block2 {
   width: 260px;
   height: 30px;
-  padding-top: 10px;
   background-color: rgba(255, 255, 0, 0.03);
   margin-top: 25px;
   border-radius: 10px;
@@ -107,7 +105,6 @@ span {
 .block3 {
   width: 260px;
   height: 30px;
-  padding-top: 10px;
   background-color: rgba(0, 128, 0, 0.03);
   margin-top: 25px;
   border-radius: 10px;
@@ -116,7 +113,6 @@ span {
 .block4 {
   width: 260px;
   height: 30px;
-  padding-top: 10px;
   background-color: rgba(0, 0, 255, 0.03);
   margin-top: 25px;
   border-radius: 10px;
