@@ -216,6 +216,10 @@ button {
     font-weight: 600;
 }
 
+button:hover {
+    background-image: linear-gradient($Lightslateblue, $Lightroyalblue);
+}
+
 @media (max-width: 425px) {
     main {
         flex-direction: column;

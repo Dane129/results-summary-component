@@ -189,6 +189,10 @@ button {
   font-weight: 600;
 }
 
+button:hover {
+  background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+}
+
 @media (max-width: 425px) {
   main {
     flex-direction: column;
